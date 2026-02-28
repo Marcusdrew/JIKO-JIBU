@@ -1,8 +1,4 @@
-Parfait ! 🌟 Avec le lien en ligne, on peut **rendre le README beaucoup plus complet et professionnel**, exactement comme pour Kaisen‑Cares.
 
-Voici la version finale à copier-coller dans ton `README.md` pour **JIKO-JIBU** :
-
-```markdown
 # JIKO-JIBU 🌿
 
 Site web vitrine pour **JIKO-JIBU**, une entreprise engagée dans des solutions écologiques et durables visant à améliorer l’environnement et promouvoir des pratiques responsables.
